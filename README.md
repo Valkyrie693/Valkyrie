@@ -1,0 +1,1 @@
+This is a custom list of the available loot for Chapter 6 Season 2 of Fortnite, minus a couple thing I don't want to use. Ive made it so i can use a randomizer to select a loadout for me for each fortnite game, feel free to use it as well, happy hunting <3
