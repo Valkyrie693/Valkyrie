@@ -1,0 +1,38 @@
+{
+  "ARs": [
+    "Twin Mag",
+    "Holo Twister",
+    "Collateral Damage",
+    "Striker Burst"
+  ],
+  "Shotguns": [
+    "Sentinel Pump",
+    "Infiltrator Pump",
+    "Outlaw",
+    "Twinfire"
+  ],
+  "SMGs": [
+    "Pump & Dump",
+    "Veiled Precision",
+    "Scoped Burst"
+  ],
+  "Snipers": [
+    "Falcon Eye",
+    "Mammoth"
+  ],
+  "Utility": [
+    "Bandage",
+    "Med Kit",
+    "Shield Potion",
+    "Small Shield Potion",
+    "Chug Jug",
+    "Fishing Rod",
+    "Gold Splash",
+    "Med Mist",
+    "Smoke Grenade",
+    "Rocket Drill",
+    "Rocket Ram",
+    "Shockwave Grenade",
+    "Business Turret"
+  ]
+}
